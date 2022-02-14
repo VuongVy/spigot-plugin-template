@@ -1,6 +1,6 @@
 name: Plugin
-main: dev.alexzvn.plugin.Plugin
+main: dev.vy.plugin.Plugin
 
-author: Alexzvn
-descriptions: A simple plugin
+author: VuongVy
+descriptions: plugin by vy
 version: 0.0.1

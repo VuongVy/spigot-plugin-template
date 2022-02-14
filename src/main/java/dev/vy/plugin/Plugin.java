@@ -1,4 +1,4 @@
-package dev.alexzvn.plugin;
+package dev.vy.plugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
